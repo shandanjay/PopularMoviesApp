@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * Created by dan on 11/6/15.
  */
-
 public class MovieAdaptor extends ArrayAdapter<Movie> {
     private static final String LOG_TAG = MovieAdaptor.class.getSimpleName();
 
